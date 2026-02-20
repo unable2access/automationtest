@@ -26,7 +26,7 @@ Dependencies:
 
 ## Run
 - Execute the test script:
-  - python ref.py
+  - python Run.py
 
 ## Outputs
 - HTML report: `Generated Report/Test_Report_<timestamp>.html`

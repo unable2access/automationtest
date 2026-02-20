@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+venv.bak/
+pyvenv.cfg
+
+# Optional: common Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Optional: distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDEs
+.vscode/
+.idea/
